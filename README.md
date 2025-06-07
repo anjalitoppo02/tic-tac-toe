@@ -5,10 +5,16 @@ This is a simple, interactive implementation of the classic Tic Tac Toe game usi
 - Two-player local gameplay
 - Win and draw detection
 - Game reset functionality
-- Responsive and minimal UI
+- Clean and responsive UI
 - Built with modern React (Hooks, JSX, functional components)
 
 # Tech Stack:
 - React for building the UI
 - JavaScript (ES6+)
-- CSS for styling
+- CSS
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
